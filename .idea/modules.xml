@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/reactprac.iml" filepath="$PROJECT_DIR$/.idea/reactprac.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../488ProjectV20/.idea/488 - CMPSC Project.iml" filepath="$PROJECT_DIR$/../488ProjectV20/.idea/488 - CMPSC Project.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/stocksProject.iml" filepath="$PROJECT_DIR$/.idea/stocksProject.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../weather/.idea/weather.iml" filepath="$PROJECT_DIR$/../weather/.idea/weather.iml" />
     </modules>
   </component>
 </project>

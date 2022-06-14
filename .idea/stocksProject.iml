@@ -9,5 +9,7 @@
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module" module-name="weather" />
+    <orderEntry type="module" module-name="488 - CMPSC Project" />
   </component>
 </module>
