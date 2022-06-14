@@ -14,4 +14,5 @@ REACT_APP_FIREBASE_APP_ID=''
 Use keys given to from firebase and put those keys in the quotes of the .env file
 Get key from finnhub.io to put in REACT_APP_API_KEY=''
 
+install firebase, react, bootstrap
 run npm start to run locally
