@@ -38,7 +38,7 @@ export default function Login() {
         <div className="long">
             <AuthProvider>
                 <Container className="d-flex align-items-center justify-content-center"
-                           style ={{minHeight:"70vh" , minWidth:"85vh"}}>
+                           style ={{minHeight:"70vh" , minWidth:"108vh"}}>
                     <div className="w-100" style={{ maxWidth:"540px"}}>
                         <body  >
 
